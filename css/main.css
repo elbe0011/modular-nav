@@ -44,7 +44,7 @@ header nav li a {
 }
 
 a:hover, .planets {
-  color: white;
+  color: #fff;
   background-color: #0074d9;
 }
 
